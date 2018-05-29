@@ -16,6 +16,10 @@ categories:
 {% blockquote 陈良静 http://chenliangjing.me/2016/05/01/%E6%88%91%E7%9A%84%E4%B8%AA%E4%BA%BA%E6%8A%80%E6%9C%AF%E5%8D%9A%E5%AE%A2%E6%90%AD%E5%BB%BA%E4%B9%8B%E6%97%85/ 我的个人技术博客搭建之旅 %}
 {% endblockquote %}
 
+{% blockquote 李长航 http://www.sail.name/2017/08/16/hexo-site-search/ hexo站内搜索 %}
+他的博客: http://www.sail.name/about/ 站内搜索挺好的
+{% endblockquote %}
+
 ### 用到的轮子：
 {% blockquote%}
 **hexo** https://hexo.io/
