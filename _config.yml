@@ -3,7 +3,7 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: Hexo
+title: Shirley Liew's Website
 subtitle:
 description:
 keywords:
@@ -13,7 +13,7 @@ timezone:
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
-url: http://yoursite.com
+url: https://loshirleyve.github.io/
 root: /
 permalink: :year/:month/:day/:title/
 permalink_defaults:
@@ -35,7 +35,7 @@ titlecase: false # Transform title into titlecase
 external_link: true # Open external links in new tab
 filename_case: 0
 render_drafts: false
-post_asset_folder: false
+post_asset_folder: true
 relative_link: false
 future: true
 highlight:
@@ -81,3 +81,31 @@ deploy:
   type: git
   repo: git@github.com:loshirleyve/loshirleyve.github.io.git
   branch: master
+
+# path - 指定生成的索引数据的文件名。默认为 search.xml 。
+# field - 指定索引数据的生成范围。可选值包括：
+## post - 只生成博客文章（post）的索引（默认）；
+## page - 只生成其他页面（page）的索引；
+## all - 生成所有文章和页面的索引。
+search:
+  path: search.xml
+  field: post
+
+jsonContent:
+    meta: false
+    pages: false
+    posts:
+      title: true
+      date: true
+      path: true
+      text: false
+      raw: false
+      content: false
+      slug: false
+      updated: false
+      comments: false
+      link: false
+      permalink: false
+      excerpt: false
+      categories: false
+      tags: true
