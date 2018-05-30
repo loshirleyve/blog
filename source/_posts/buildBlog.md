@@ -9,6 +9,7 @@ categories:
 ---
 > 这几天看阮一峰和寥雪峰双峰大神的技术博客，觉得也要搭建起自己的技术博客，以激励自己不断在技术上开疆拓土。
 
+<!-- more -->
 ### 搭建这个博客，参考了网上资料有：
 {% blockquote 令狐葱@前端笔记 https://linghucong.js.org/2016/04/15/2016-04-15-hexo-github-pages-blog/ 手把手教你使用Hexo + Github Pages搭建个人独立博客 %}
 {% endblockquote %}
