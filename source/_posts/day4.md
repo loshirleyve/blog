@@ -59,4 +59,8 @@ tags:
 达到效果：
 + 每次刷新页面会加载不同的图片，但是首屏图片不变
 + 在 pc 和 mobile 端能实现响应式布局
-<iframe width="100%" height="500" src="//jsfiddle.net/liewshirley/6ay5rcjv/embedded/" allowfullscreen="allowfullscreen" allowpaymentrequest frameborder="0"></iframe>
+<iframe width="100%" height="500" src="//jsfiddle.net/liewshirley/6ay5rcjv/8/embedded/" allowfullscreen="allowfullscreen" allowpaymentrequest frameborder="0"></iframe>
+
+<br/>
+
+### Build a Responsive Grid CSS Website Layout From Scratch
