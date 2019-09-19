@@ -1,4 +1,6 @@
 "#blog" 
+#线上访问地址https://loshirleyve.github.io/
+生成的文件地址：https://github.com/loshirleyve/loshirleyve.github.io
 
 #初始化git上的blog步骤
 
