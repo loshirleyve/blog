@@ -38,3 +38,5 @@
     $ hexo g == hexo generate
     $ hexo s == hexo server
     $ hexo d == hexo deploy
+#hexo文档
+https://hexo.io/zh-cn/docs

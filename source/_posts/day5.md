@@ -6,7 +6,7 @@ tags:
 
 ### Linux Sysadmin Basics 01 -- Setting up a Linux Virtual Machine
 course address: https://www.youtube.com/watch?v=OLK49ZTbmWM&list=PLtK75qxsQaMLZSo7KL-PmiRarU7hrpnwK&index=2
-
+ <!-- more -->
 step 1: install virtual machine: https://www.virtualbox.org/wiki/Downloads
 
 step 2: install ubuntu: https://www.ubuntu.com/download/desktop/thank-you?country=AU&version=18.04&architecture=amd64
