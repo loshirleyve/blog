@@ -14,7 +14,7 @@ tags:
 1. 通过 pywin32 调用本地的 word 程序把 .docx 格式的文档转存为筛选过的网页（*.htm,*.html）
 2. 用 html.parser 模块解析读取的html, 通过 re 模块的正则替换删除冗余内容，通过 bs4 模块对 html 进行其他优化处理
 3. 用 codecs 模块保存优化后的 html
-4. 用 cxfreeze 将 优化后的 html 打包成 word2html.exe 可执行内容
+4. 用 pyinstaller(或cxfreeze, pyinstaller打包出的可执行程序更稳定) 将 优化后的 html 打包成 word2html.exe 可执行内容
 5. 将打包后的内容放在项目目录下，并在项目目录下的 package.json 的 scripts 里配置 `start word2html.exe`，使程序可在项目中运行
 
 #### 准备工作：

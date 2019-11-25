@@ -55,3 +55,6 @@
 
 #hexo文档
 https://hexo.io/zh-cn/docs
+
+# 七牛云地址
+https://portal.qiniu.com/kodo/bucket/resource?bucketName=liewshirley
