@@ -1,6 +1,6 @@
 ---
 title: 冬季穿搭#做一个保暖时尚 girl
-date: 2019-11-24 18:59:02
+date: 2019-11-20 18:59:02
 urlname: emf326-a
 tags:
     - EMF
@@ -11,7 +11,7 @@ tags:
  <!-- more -->
  
  <div>
-  {% aplayer "冬季穿搭#做一个保暖时尚 girl" "EMF" "/2019/11/21/emf325-b/final_audio.mp3"  "/2019/11/21/emf325-b/5.png" %}
+  {% aplayer "冬季穿搭#做一个保暖时尚 girl" "EMF" "/2019/11/20/emf326-a/final_audio.mp3"  "/2019/11/20/emf326-a/5.png" %}
   </div>
   
   [//]: # (今日话题 Today's Topic)
