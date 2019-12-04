@@ -11,7 +11,7 @@ tags:
  <!-- more -->
  
  <div>
-  {% aplayer "手机游戏——实况足球" "EMF" "/2019/11/29/emf333-a/final_audio.mp3"  "/2019/11/29/emf333-a/5.png" %}
+  {% aplayer "手机游戏——实况足球" "EMF" "/2019/11/29/emf333-a/final_audio.mp3"  "/2019/11/29/emf333-a/1.png" %}
   </div>
   
   [//]: # (今日话题 Today's Topic)

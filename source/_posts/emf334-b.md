@@ -7,7 +7,7 @@ tags:
     - English
 ---
  [//]: # (标题：Part1)
- <div> {% asset_path 1_1.png %}
+ <div> {% asset_path 1.png %}
  {% img http://q1gs2pwb3.bkt.clouddn.com/emf_part1.gif %}
  </div>
  <!-- more -->
