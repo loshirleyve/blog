@@ -39,7 +39,6 @@ tags:
   <div>
   {% img http://q1gs2pwb3.bkt.clouddn.com/emf_coverStory.gif %}
   {% asset_img 4.png %}
-  {% dplayer "url=/2019/12/02/emf336-a/video.mp3"  "pic=/2019/12/02/emf336-a/1.png" "loop=yes" "theme=#FADFA3" "autoplay=false" "token=tokendemo" %}
   </div>
   
   
