@@ -58,3 +58,5 @@ https://hexo.io/zh-cn/docs
 
 # 七牛云地址
 https://portal.qiniu.com/kodo/bucket/resource?bucketName=liewshirley
+
+# 在线音频压缩：https://www.compresss.com/cn/compress-audio.html
