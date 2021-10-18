@@ -17,28 +17,28 @@ tags:
   [//]: # (今日话题 Today's Topic)
   <div> 
   {% img http://q1gs2pwb3.bkt.clouddn.com/emf_today'sTopic.gif %}
-  {% asset_img 1.png %}
+  {% img https://gitee.com/liewshirley/mediaAssets/raw/ebe1c2e43e7dbbb47c347c8f4b51d3d0293ce2a9/emf335l-a/1.png %}
   </div>
   
   
   [//]: # (温故知新 Do You Remember?)
   <div>
   {% img http://q1gs2pwb3.bkt.clouddn.com/emf_doYouRememeber.gif %}
-  {% asset_img 2.png %}
+  {% img https://gitee.com/liewshirley/mediaAssets/raw/ebe1c2e43e7dbbb47c347c8f4b51d3d0293ce2a9/emf335l-a/2.png %}
   </div>
   
   
   [//]: # (Global News with Michael 小麦全球新闻)
   <div>
   **Global News with Michael 小麦全球新闻**
-  {% asset_img 3.png %}
+  {% img https://gitee.com/liewshirley/mediaAssets/raw/ebe1c2e43e7dbbb47c347c8f4b51d3d0293ce2a9/emf335l-a/3.png %}
   </div>
   
   
   [//]: # (核心报道 Cover Story)
   <div>
   {% img http://q1gs2pwb3.bkt.clouddn.com/emf_coverStory.gif %}
-  {% asset_img 4.png %}
+  {% img https://gitee.com/liewshirley/mediaAssets/raw/ebe1c2e43e7dbbb47c347c8f4b51d3d0293ce2a9/emf335l-a/4.png %}
   </div>
   
   
@@ -50,7 +50,7 @@ tags:
   <div>
   {% img http://q1gs2pwb3.bkt.clouddn.com/emf_keyWordsFlash.png %}
   {% img http://q1gs2pwb3.bkt.clouddn.com/emf_keyWordsFlash_1.png %}
-  {% asset_img 5.png %}
+  {% img https://gitee.com/liewshirley/mediaAssets/raw/ebe1c2e43e7dbbb47c347c8f4b51d3d0293ce2a9/emf335l-a/5.png %}
   </div>
   
   
@@ -59,15 +59,15 @@ tags:
   {% img http://q1gs2pwb3.bkt.clouddn.com/emf_englishWalkman.gif %}
   {% img http://q1gs2pwb3.bkt.clouddn.com/emf_originalSoundReproduction.gif %}
   {% img http://q1gs2pwb3.bkt.clouddn.com/emf_sentence_1.gif %}
-  {% asset_img 6.png %}
+  {% img https://gitee.com/liewshirley/mediaAssets/raw/ebe1c2e43e7dbbb47c347c8f4b51d3d0293ce2a9/emf335l-a/6.png %}
   {% img http://q1gs2pwb3.bkt.clouddn.com/emf_sentence_2.gif %}
-  {% asset_img 7.png %}
+  {% img https://gitee.com/liewshirley/mediaAssets/raw/ebe1c2e43e7dbbb47c347c8f4b51d3d0293ce2a9/emf335l-a/7.png %}
   {% img http://q1gs2pwb3.bkt.clouddn.com/emf_sentence_3.gif %}
-  {% asset_img 8.png %}
+  {% img https://gitee.com/liewshirley/mediaAssets/raw/ebe1c2e43e7dbbb47c347c8f4b51d3d0293ce2a9/emf335l-a/8.png %}
   {% img http://q1gs2pwb3.bkt.clouddn.com/emf_sentence_4.gif %}
-  {% asset_img 9.png %}
+  {% img https://gitee.com/liewshirley/mediaAssets/raw/ebe1c2e43e7dbbb47c347c8f4b51d3d0293ce2a9/emf335l-a/9.png %}
   {% img http://q1gs2pwb3.bkt.clouddn.com/emf_sentence_5.gif %}
-  {% asset_img 10.png %}
+  {% img https://gitee.com/liewshirley/mediaAssets/raw/ebe1c2e43e7dbbb47c347c8f4b51d3d0293ce2a9/emf335l-a/10.png %}
   </div>
   
   [//]: # (语音语调及高清慢动作 Intonation and HDSM)
@@ -91,6 +91,6 @@ tags:
   {% img http://q1gs2pwb3.bkt.clouddn.com/emf_part3_interactiveLearningZone.png %}
     **Review and Practice(R&P)
       It's All about Your R&P. 闯荡江湖靠人品，学习英语靠复练。**
-      {% asset_img 11.png %}
-      {% asset_img 12.png %}
+      {% img https://gitee.com/liewshirley/mediaAssets/raw/ebe1c2e43e7dbbb47c347c8f4b51d3d0293ce2a9/emf335l-a/11.png %}
+      {% img https://gitee.com/liewshirley/mediaAssets/raw/ebe1c2e43e7dbbb47c347c8f4b51d3d0293ce2a9/emf335l-a/12.png %}
   </div>

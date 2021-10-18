@@ -20,21 +20,21 @@ tags:
   [//]: # (今日话题 Today's Topic)
   <div> 
   {% img http://q1gs2pwb3.bkt.clouddn.com/emf_today'sTopic.gif %}
-  {% asset_img 1_1.png %}
+  {% img https://gitee.com/liewshirley/mediaAssets/raw/ebe1c2e43e7dbbb47c347c8f4b51d3d0293ce2a9/emf328-c/1_1.png %}
   </div>
   
   
   [//]: # (温故知新 Do You Remember?)
   <div>
   {% img http://q1gs2pwb3.bkt.clouddn.com/emf_doYouRememeber.gif %}
-  {% asset_img 2_1.png %}
+  {% img https://gitee.com/liewshirley/mediaAssets/raw/ebe1c2e43e7dbbb47c347c8f4b51d3d0293ce2a9/emf328-c/2_1.png %}
   </div>
   
   
   [//]: # (小麦叔叔 UME)
   <div>
   {% img http://q1gs2pwb3.bkt.clouddn.com/emf_ume.gif %}
-  {% asset_img 3_1.png %}
+  {% img https://gitee.com/liewshirley/mediaAssets/raw/ebe1c2e43e7dbbb47c347c8f4b51d3d0293ce2a9/emf328-c/3_1.png %}
   </div>
   
   
@@ -46,21 +46,21 @@ tags:
   <div>
   {% img http://q1gs2pwb3.bkt.clouddn.com/emf_keyWordsFlash.png %}
   {% img http://q1gs2pwb3.bkt.clouddn.com/emf_keyWordsFlash_1.png %}
-  {% asset_img 5_1.png %}
+  {% img https://gitee.com/liewshirley/mediaAssets/raw/ebe1c2e43e7dbbb47c347c8f4b51d3d0293ce2a9/emf328-c/5_1.png %}
   </div>
   
   
   [//]: # (Part2 Words & Music)
   <div>
   {% img http://q1gs2pwb3.bkt.clouddn.com/emf_words&music.png %}
-  {% asset_img 6_1.png %}
+  {% img https://gitee.com/liewshirley/mediaAssets/raw/ebe1c2e43e7dbbb47c347c8f4b51d3d0293ce2a9/emf328-c/6_1.png %}
   </div>
   
   
   [//]: # (Part3 温故知新)
   <div>
   {% img http://q1gs2pwb3.bkt.clouddn.com/emf_part3Review.png %}
-  {% asset_img 7_1.png %}
+  {% img https://gitee.com/liewshirley/mediaAssets/raw/ebe1c2e43e7dbbb47c347c8f4b51d3d0293ce2a9/emf328-c/7_1.png %}
   </div>
   
   

@@ -7,14 +7,17 @@ tags:
 
 前提：不能开VPN，比如 chrome的vpn插件，公司的vpn登录
 
-## 一、确定ip  https://websites.ipaddress.com/github.com
+## 一、确定ip
+https://websites.ipaddress.com/github.com
 查看GitHub的ip地址。
 [](https://raw.githubusercontent.com/loshirleyve/images/main/github.png?token=ADCW5YXXVETSWLGAHBZC3WDBNV7HO)
 
-## 二、确定域名ip https://websites.ipaddress.com/github.global.ssl.fastly.net
+## 二、确定域名ip
+https://websites.ipaddress.com/github.global.ssl.fastly.net
 [](https://github.com/loshirleyve/images/blob/main/fastlynet.png?raw=true)
 
-## 三、确定静态资源ip https://github.com.ipaddress.com/assets-cdn.github.com
+## 三、确定静态资源ip
+https://github.com.ipaddress.com/assets-cdn.github.com
 [](https://github.com/loshirleyve/images/blob/main/assetscdn.png?raw=true)
 
 ## 四、修改hosts文件
@@ -63,6 +66,7 @@ tags:
     185.199.110.153 assets-cdn.github.com
     185.199.111.153 assets-cdn.github.com
     ```
+
 6. control+c退出出编辑模式
 7. 输入:wq，保存退出
 8. 刷新网络 DNS 缓存：
