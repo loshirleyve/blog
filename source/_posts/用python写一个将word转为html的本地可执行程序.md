@@ -51,6 +51,8 @@ window 环境下去 [官网](https://www.python.org/downloads/windows/) 下载�
 另一个版本的:
 {% include_code word转html lang:python word2html2.py %}
 
+{% include_code word转html,20210908补充现在用的 word2html.py 文件 lang:python word2html3.py %}
+
 **6. 其他**
 [用python创建 docx 文件](https://www.cnblogs.com/deepwaterplan/articles/6664796.html)
 [别人用js实现的word2html](https://github.com/wibetter/word2html)
